@@ -1,6 +1,4 @@
-<a target="_blank" href="https://linkedin.com/in/sashasyedin">
-  <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a target="_blank" href="https://telegram.me/sashasyedin">
-  <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
+<div>
+  <a href = "https://www.linkedin.com/in/sashasyedin" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href = "https://telegram.me/sashasyedin" target="_blank"><img src="https://img.shields.io/badge/-Telegram-%23333?style=for-the-badge&logo=telegram&logoColor=white"></a>
+</div>
